@@ -1,0 +1,16 @@
+.navbar {
+  padding: 3%;
+  flex-direction: row;
+  justify-content: space-between;
+  display: flex;
+  position: sticky;
+}
+
+.logo {
+  width: 27%;
+  justify-items: center;
+  align-items: center;
+}
+.menuList {
+  align-items: center;
+}
